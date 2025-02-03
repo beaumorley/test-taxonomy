@@ -1,0 +1,98 @@
+created_by: beaumorley
+version: 3
+domain: Horticulture
+document_outline: All about pruning trees and what works and what does not.
+seed_examples:
+  - context: >-
+      The objective of pruning is to produce strong, healthy, attractive plants.
+      By understanding how, when and why to prune, and by following a few simple
+      principles, this objective can be achieved.
+
+
+      ## Why Prune
+
+
+      The main reasons for pruning ornamental and shade trees include safety,
+      health, and aesthetics. In addition, pruning can be used to stimulate
+      fruit production and increase the value of timber. Pruning for safety
+      (Fig. 1A) involves removing branches that could fall and cause injury or
+      property damage, trimming branches that  interfere with lines of sight on
+      streets or driveways, and removing branches that grow into utility lines.
+      Safety pruning can be largely avoided by carefully choosing species that
+      will not grow beyond the space available to them, and have strength and
+      form characteristics that are suited to the site.
+    questions_and_answers:
+      - question: asd
+        answer: sdg
+      - question: zxc
+        answer: asfafsd
+      - question: vbn
+        answer: sdaf
+  - context: >-
+      All woody plants shed branches in response to shading and competition.
+      Branches that do not produce enough carbohydrates from photosynthesis to
+      sustain themselves die and are eventually shed; the resulting wounds are
+      sealed by woundwood (callus). Branches that are poorly attached may be
+      broken off by wind and accumulation of snow and ice. Branches removed by
+      such natural forces often result in large, ragged wounds that rarely seal.
+      Pruning as a cultural practice can be used to supplement or replace these
+      natural processes and increase the strength and longevity of plants.
+    questions_and_answers:
+      - question: asdfagsh
+        answer: dhfgdh
+      - question: asdf
+        answer: adfasgfhdjgf
+      - question: shjgjhk
+        answer: afag
+  - context: >-
+      Proper pruning cuts are made at a node, the point at which one branch or
+      twig attaches to another.  In the spring of the year growth begins at
+      buds, and twigs grow until a new node is formed.  The length of a branch
+      between nodes is called an internode.
+    questions_and_answers:
+      - question: why proper pruning?
+        answer: to cut it right
+      - question: dhfgdfh
+        answer: sdgfsgf
+      - question: adfgg
+        answer: dfghjf
+  - context: >-
+      Producing strong structure should be the emphasis when pruning young
+      trees.  As trees mature, the aim of pruning will shift to maintaining tree
+      structure, form, health and appearance.
+
+
+      Proper pruning cuts are made at a node, the point at which one branch or
+      twig attaches to another.  In the spring of the year growth begins at
+      buds, and twigs grow until a new node is formed.  The length of a branch
+      between nodes is called an internode.
+    questions_and_answers:
+      - question: dfjhdj
+        answer: sgsgdf
+      - question: sgfgsf
+        answer: sgfhjfg
+      - question: adfaf
+        answer: adfjdhdm
+  - context: >-
+      Branches with strong U-shaped angles of attachment should be retained (Fig
+      3A). Branches with narrow, V-shaped angles of attachment often form
+      included bark and should be removed (Fig. 3B). Included bark forms when
+      two branches grow at sharply acute angles to one another, producing a
+      wedge of inward-rolled bark between them. Included bark prevents strong
+      attachment of branches, often causing a crack at the point below where the
+      branches meet. Codominant stems that are approximately the same size and
+      arise from the same position often form included bark.  Removing some of
+      the lateral branches from a codominant stem can reduce its growth enough
+      to allow the other stem to become dominant.
+    questions_and_answers:
+      - question: cnbsff
+        answer: sdgzf
+      - question: dsfahds
+        answer: afdj adfs
+      - question: afda. adfaf
+        answer: dyjfku
+document:
+  repo: undefined/taxonomy-knowledge-docs
+  commit: 08d92288bcb4d5cadb214f847d46183447e1e916
+  patterns:
+    - prunetree-smaller-20250203T153020008.md

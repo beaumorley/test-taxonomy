@@ -1,0 +1,5 @@
+Title of work: How to Prune Trees
+Link to work: https://research.fs.usda.gov/treesearch/12602
+Revision: 1
+License of the work: Apache 2.0
+Creator names: USDA Forest Service
